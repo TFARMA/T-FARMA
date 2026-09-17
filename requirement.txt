@@ -1,0 +1,7 @@
+torch==2.4.0
+dgl-cu121==2.4.0
+tqdm
+pandas
+numpy
+scipy
+rdflib
